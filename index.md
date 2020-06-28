@@ -9,4 +9,4 @@ The wildly imaginative, supremely confident, world-famous beagle is a canine mas
 * never forgets when it’s time to eat and often celebrates the occasion with a happy dance.
 * As the World Famous Author, Snoopy is forever trying to write the great American novel.
 * Snoopy loves to fantasize about being various characters. Most notably, the World War I Flying Ace.
-
+> Are you upset little friend? Have you been lying awake worrying? Well, don't worry...I'm here. The flood waters will recede, the famine will end, the sun will shine tomorrow, and I will always be here to take care of you.
