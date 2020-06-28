@@ -1,1 +1,3 @@
 # Snoopy
+
+The wildly imaginative, supremely confident, world-famous beagle is a canine master of disguise. As Joe Cool, he’s aloof, unflappable, above the fray, the hip dog we’d all like to be. As the World War I Flying Ace, he engages in aerial combat with the notorious Red Baron. While pondering life from the top of his doghouse, he writes the great American novel, travels to the moon, and plots revenge on the cat next door.
